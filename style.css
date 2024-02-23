@@ -49,7 +49,7 @@
         }
 
         #menu-toggle,.menu-label{
-            display: flex;
+            display: none;
             
         }
 
